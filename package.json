@@ -28,7 +28,7 @@
   "devDependencies": {
     "grunt": "0.3.7",
     "grunt-css": "0.1.1",
-    "request": "2.9.153",
+    "request": "2.88.2",
     "rimraf": "2.0.1"
   },
   "keywords": []
